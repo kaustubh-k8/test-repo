@@ -1,0 +1,5 @@
+first text document for git
+i used git restore command to revert back to previous state
+but im modifying it again so that git knows i have cooked again
+
+changed by mawk
